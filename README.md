@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tahmid</h1>
+<h1 align="center">Hi 👋</h1>
 
 
 <p>💻 Aspiring Computer Scientist | 🎯 Optimization & Research</p>
