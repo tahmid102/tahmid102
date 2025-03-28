@@ -9,9 +9,9 @@
 
 💡 Exploring optimization algorithms, cryptography, and research ideas
 
-💻 Learning Dsa and Web Development
+💻 Learning DSA and Web Development
 
-🚀 Interested in Research & hackathons
+🚀 Interested in Research & Neural networking
 
 <h3 align="left">Socials:</h3>
 <p align="left">
