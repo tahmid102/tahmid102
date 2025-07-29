@@ -7,7 +7,7 @@
 <h1>👋 About Me</h1>
 🎓 CSE Student at BUET
 
-💡 Exploring optimization algorithms, cryptography, and research ideas
+💡 Exploring optimization algorithms, oop, and research ideas
 
 💻 Learning DSA and Web Development
 
