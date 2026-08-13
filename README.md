@@ -7,11 +7,11 @@
 <h1>👋 About Me</h1>
 🎓 CSE Student at BUET
 
-💡 Exploring optimization algorithms, oop, and research ideas
+💡 Exploring 
 
-💻 Learning DSA and Web Development
+💻 Learning
 
-🚀 Interested in Research & Neural networking
+🚀 Interested in ML and Gamedevs
 
 <h3 align="left">Socials:</h3>
 <p align="left">
